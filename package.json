@@ -1,0 +1,18 @@
+{
+  "name": "studymate-ai",
+  "version": "1.0.0",
+  "description": "StudyMate AI — Intelligent RAG-Grounded Study Assistant",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend run dev"
+  },
+  "keywords": [
+    "ai",
+    "rag",
+    "study-assistant",
+    "capstone"
+  ],
+  "author": "StudyMate AI Team",
+  "license": "MIT"
+}
